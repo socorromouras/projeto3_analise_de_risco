@@ -117,5 +117,4 @@ Esse projeto corresponde a minha participação no Bootcamp da Laboratória Bras
     - Pré-processamentos - Colab - [**LINK**](https://colab.research.google.com/drive/1xH-YfJk4Zfkrafd9HrbJTF11WjdptMky?usp=sharing)
     - Apresentação - Looker Studio -[**LINK**](https://lookerstudio.google.com/reporting/1312a7b3-510f-464b-aa32-34a718f57924)
     - Apresentação **Vídeo** - Loom - [**LINK**](https://www.loom.com/share/27f3b014512f4658b4b44d84a8ce73c8?sid=0113ee38-bec5-4070-a6fe-2524046ecfd6)
-    - Marco Adicional (Standby) - Colab - [**LINK**](https://colab.research.google.com/drive/1n3U0-CWNzbDNQb5_CIVkv8eSWPqOeUpP?usp=sharing)
     - Documentação - [**LINK**](https://docs.google.com/document/d/19fTwSYtrZhtklOleePai2y5p698O00u871JvanbtBuk/edit?usp=sharing)
